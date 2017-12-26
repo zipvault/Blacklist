@@ -1,2 +1,0 @@
-# Blacklist
-Domain Blacklist
